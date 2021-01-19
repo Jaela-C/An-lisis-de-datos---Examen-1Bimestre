@@ -52,6 +52,6 @@
 - Se realiza la conexión con mongoDB.
 - Se realiza la conexión con mongoDB Atlas 'Es necesario obtener e link que permite hacer una conexión desde Python'.
 - Con una sentencia *for* se guardan los datos con su respectivo ID.
-### 9. Datos de mongoDB Atlas en archivo examen.csv
+### 9. y 10. Datos de mongoDB Atlas en archivo examen.csv
 - Los datos extraídos de todos los scripts anteriores se muestran en un archivo de tipo .csv.
 - Para obtener el archivo se realizó una conexión remota con mongoDB Compass.
